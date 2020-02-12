@@ -13,4 +13,8 @@ Welcome to my research website.
 ```{r test}
 a <- 10
 a
+
+x<-1:100
+y<-1:100
+plot(x,y)
 ```
